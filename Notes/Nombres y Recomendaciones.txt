@@ -1,0 +1,21 @@
+Nombres pronunciables y expresivos:
+    Variables:
+    - Los nombres de las variables imprescindiblemente tienen que estar escritas en ingles y deben de ser pronunciables
+
+    Clases:
+    - El nombre de la clase es lo más importante de la misma. Esto ayuda a darle un sentido lógico a su vida.
+    - Las clases deben de tener nombres formados por un sustantivo o frases de sustantivo. Debemos de evitar nombres genéricos (ya que podemos terminar asignándole muchas responsabilidades a la misma)
+    - Debemos trabajar los nombres de las clases utilizando UpperCamelCase.
+    Usualemnte para saber que un nombre es correcto para una clase nos podemos hacer estas tres preguntas:
+    - ¿Qué exactamente hace la clase?
+    - ¿Cómo exactamente esta clase realiza cierta tarea?
+    - ¿Hay algo específico en la ubicación y cómo estoy utilizando esta clase?
+
+    Funciones:
+    - "Sabemos que estamos desarrollando código limpio cuando cada función hace exactamente lo que su nombre indica". - Ward Cunningham
+    - Simplicidad es fundamental
+    - Funciones de tamaño reducido
+    - Funciones de una sola línea sin causar complejidad
+    - Menos de 20 líneas
+    - Evitar el uso del 'else'
+    - Prioriza el uso de la condicional ternaria
